@@ -1,0 +1,43 @@
+body {
+	padding: 20px;
+	justify-content: center;
+}
+
+.listTitle {
+	text-align: center;
+}
+
+.groceryContainer {
+	justify-content: center;
+	display: grid;
+}
+
+.foodContainer {
+	display: inline-flex;
+}
+
+.groceryCategory {
+	border: 3px solid #005792;
+	border-radius: 10px;
+	padding: 10px 0px;
+	background-color: #005792;
+	color: white;
+}
+.foodItems {
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	padding: 25px;
+	border: 3px solid #00bbf0;
+	border-radius: 10px;
+	background-color: #00bbf0;
+}
+
+.foodList {
+	margin: 0px;
+	padding: 15px;
+}
+
+.groceryImage {
+	padding: 20px;
+}
